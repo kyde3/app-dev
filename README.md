@@ -1,44 +1,49 @@
 # app-dev
 My repository
-# Breaking Bad
+# 18×2 Beyond Youthful Days
 
 ## **Overview**
-*Breaking Bad* is an **American crime drama television series** created by *Vince Gilligan*. It follows the story of Walter White, a chemistry teacher turned methamphetamine manufacturer, and his descent into the criminal underworld.
+*18×2 Beyond Youthful Days* is a **coming-of-age drama** that delves into the complexities of youth, relationships, and self-discovery. It portrays the lives of young individuals navigating through pivotal moments that define their future.
 
 ---
 
 ### **Why I Love It**
-- **Amazing character development**: Walter White’s transformation from a mild-mannered teacher to the infamous "Heisenberg" is masterfully portrayed.
-- **Complex themes**: It explores morality, greed, and the consequences of one’s actions.
-- **Outstanding performances**: Bryan Cranston and Aaron Paul deliver career-defining roles.
+- **Relatable themes**: Captures the raw emotions of youth, from joy to heartbreak.
+- **Beautiful storytelling**: Weaves together moments of nostalgia and growth.
+- **Stunning cinematography**: Visuals that bring out the beauty of everyday life.
 
 ---
 
 ### **Notable Characters**
-1. **Walter White** - The protagonist with a dual identity: teacher and drug lord.
-2. **Jesse Pinkman** - Walter's troubled former student and business partner.
-3. **Skyler White** - Walter's wife, caught in the moral chaos.
+1. **Main Protagonist** - A reflective individual searching for meaning and purpose in life.
+2. **Close Friend** - The loyal companion who offers support through challenges.
+3. **Love Interest** - A character whose presence brings both warmth and complexity.
 
 ---
 
 ### **Favorite Quote**
-> "I am not in danger, Skyler. I am the danger. A guy opens his door and gets shot and you think that of me? No. I am the one who knocks!"  
-— *Walter White*
+> "Youth isn’t just about making memories; it’s about discovering who you are."  
+— *18×2 Beyond Youthful Days*
 
 ---
 
 ### **Rating**
 | Aspect            | Rating (Out of 10) |
 |--------------------|--------------------|
-| Plot              | 10                 |
+| Plot              | 9                  |
 | Acting            | 10                 |
-| Cinematography    | 9                  |
-| Overall Impact    | 10                 |
+| Cinematography    | 10                 |
+| Overall Impact    | 9                  |
 
 ---
 
 ### Fun Fact
-The periodic table reference in the show’s logo is a nod to Walter’s background as a chemistry teacher. 🧪
+The title *18×2* symbolizes pivotal moments at the age of 18, viewed from a later perspective in life. 🎥
+
+---
+
+
+
 
 ---
 
